@@ -1,25 +1,30 @@
 # Active Directory
 
 ## Objective
-[Brief Objective - Remove this afterwards]
 
-The Detection Lab project aimed to establish a controlled environment for simulating and detecting cyber attacks. The primary focus was to ingest and analyze logs within a Security Information and Event Management (SIEM) system, generating test telemetry to mimic real-world attack scenarios. This hands-on experience was designed to deepen understanding of network security, attack patterns, and defensive strategies.
+This project focuses on strengthening the security posture of Active Directory (AD) environments by identifying vulnerabilities, implementing best-practice hardening techniques, and ensuring continuous monitoring to mitigate potential threats. The project aims to safeguard against common AD attack vectors such as privilege escalation, credential theft, and unauthorized access. Key components include deploying Group Policy Objects (GPOs) to enforce security policies, auditing AD configurations for potential misconfigurations, and integrating Security Information and Event Management (SIEM) systems for real-time alerting on suspicious activities. By implementing a defense-in-depth strategy, this project demonstrates a comprehensive approach to securing an organization's identity management infrastructure.
 
 ### Skills Learned
-[Bullet Points - Remove this afterwards]
+-Active Directory Management
 
-- Advanced understanding of SIEM concepts and practical application.
-- Proficiency in analyzing and interpreting network logs.
-- Ability to generate and recognize attack signatures and patterns.
-- Enhanced knowledge of network protocols and security vulnerabilities.
-- Development of critical thinking and problem-solving skills in cybersecurity.
+-Network Security
+
+-Threat Detection and Incident Response,
+-Penetration Testing,
+
+-Logging and Monitoring, 
+
+-Diagramming and Documentation
+
 
 ### Tools Used
 [Bullet Points - Remove this afterwards]
 
-- Security Information and Event Management (SIEM) system for log ingestion and analysis.
-- Network analysis tools (such as Wireshark) for capturing and examining network traffic.
-- Telemetry generation tools to create realistic network traffic and attack scenarios.
+Splunk
+Kali Linux
+Windows 10
+draw.io
+sysmon
 
 ## Steps
 drag & drop screenshots here or use imgur and reference them using imgsrc
