@@ -10,6 +10,7 @@ This project focuses on strengthening the security posture of Active Directory (
 -Network Security
 
 -Threat Detection and Incident Response,
+
 -Penetration Testing,
 
 -Logging and Monitoring, 
@@ -18,7 +19,7 @@ This project focuses on strengthening the security posture of Active Directory (
 
 
 ### Tools Used
-[Bullet Points - Remove this afterwards]
+
 
 Splunk
 Kali Linux
