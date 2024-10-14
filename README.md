@@ -21,11 +21,15 @@ This project focuses on strengthening the security posture of Active Directory (
 ### Tools Used
 
 
-Splunk
-Kali Linux
-Windows 10
-draw.io
-sysmon
+-Splunk
+
+-Kali Linux
+
+-Windows 10
+
+-draw.io
+
+-sysmon
 
 ## Steps
 drag & drop screenshots here or use imgur and reference them using imgsrc
